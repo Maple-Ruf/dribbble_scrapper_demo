@@ -38,7 +38,7 @@ p{
 
 #banner{
   text-align: center;
-  background-image: url("https://cdn.dribbble.com/users/99875/screenshots/2002428/jurassic-park2.gif");
+  background-image: url("https://images.unsplash.com/photo-1453791052107-5c843da62d97?dpr=1&auto=compress,format&fit=crop&w=2550&h=&q=80&cs=tinysrgb&crop=");
   background-size: cover;
   padding: 150px;
   color: white;
@@ -47,7 +47,7 @@ p{
 
 #gif{
 text-align: center;
-background-image: url("https://images.unsplash.com/photo-1453791052107-5c843da62d97?dpr=1&auto=compress,format&fit=crop&w=2550&h=&q=80&cs=tinysrgb&crop=");
+background-image: url("https://cdn.dribbble.com/users/99875/screenshots/2002428/jurassic-park2.gif");
 background-size: cover;
 padding: 30vw 0;
 color: white;
