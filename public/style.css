@@ -78,13 +78,15 @@ padding-top: 30px;
   padding: 50px;
 }
 
-#wufoo-form-container{
+.container{
+  width: 100%;
+}
 
+#wufoo-form-container{
 padding-top: 15px;
 }
 
 #gif{
-
 text-align: center;
 background-image: url("images/dino.gif");
 background-size: cover;
