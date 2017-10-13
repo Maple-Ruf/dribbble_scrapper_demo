@@ -73,13 +73,12 @@ padding-top: 30px;
   font-weight: lighter;
 }
 
-.cta {
-
+.cta{
   background-color: rgb(220, 220, 220);
   padding: 50px;
 }
 
-#wufoo-form-container {
+#wufoo-form-container{
 
 padding-top: 15px;
 }
