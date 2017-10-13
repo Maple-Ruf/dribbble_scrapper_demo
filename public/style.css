@@ -13,10 +13,12 @@ h1{
   font-size: 25px;
 }
 h2 {
-  font-family: Roboto;
+  font-family: 'Montserrat', sans-serif;
   color: brown;
   font-weight: bolder;
-  font-size: 25px;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px
 }
 a {
   text-align: center;
@@ -29,6 +31,11 @@ a:hover {
   text-decoration: none;
   color: white;
 }
+
+p{
+
+ margin: 0 0 10px
+ }
 
 #banner{
   text-align: center;
@@ -72,10 +79,28 @@ padding-top: 30px;
   padding: 50px;
 }
 
-#footer a {
-  color: lightgrey;
-  font-size: 25px;
+#wufoo-form-container {
+
+padding-top: 15px;
 }
+
+#gif{
+
+text-align: center;
+background-image: url("images/dino.gif");
+background-size: cover;
+padding: 30vw 0;
+color: white;
+overflow-y: hidden;
+}
+
+#footer a {
+padding: 30px;
+background: rgb(30, 30, 30);
+  background-size: cover;
+color: lightgrey;
+}
+
 #footer a:hover {
   color: white;
 }
